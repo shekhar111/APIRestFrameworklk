@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="187" started-at="2020-03-06T08:30:59Z" finished-at="2020-03-06T08:30:59Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="187" started-at="2020-03-06T08:30:59Z" finished-at="2020-03-06T08:30:59Z">
+      <class name="com.shashi1.APITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:com.shashi1.APITest@61a485d2]" name="DeleteTwitter" duration-ms="47" started-at="2020-03-06T08:30:59Z" finished-at="2020-03-06T08:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:com.shashi1.APITest@61a485d2]" name="PostJira" duration-ms="15" started-at="2020-03-06T08:30:59Z" finished-at="2020-03-06T08:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- com.shashi1.APITest -->
+      <class name="com.shashi1.AppiumTest">
+        <test-method status="PASS" signature="IOSAPP()[pri:0, instance:com.shashi1.AppiumTest@39fb3ab6]" name="IOSAPP" duration-ms="0" started-at="2020-03-06T08:30:59Z" finished-at="2020-03-06T08:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSAPP -->
+        <test-method status="PASS" signature="NativeAPAndroid()[pri:0, instance:com.shashi1.AppiumTest@39fb3ab6]" name="NativeAPAndroid" duration-ms="16" started-at="2020-03-06T08:30:59Z" finished-at="2020-03-06T08:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPAndroid -->
+      </class> <!-- com.shashi1.AppiumTest -->
+      <class name="com.shashi1.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:com.shashi1.SeleniumTest@6276ae34]" name="BrowserAutomation" duration-ms="0" started-at="2020-03-06T08:30:59Z" finished-at="2020-03-06T08:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementUI()[pri:0, instance:com.shashi1.SeleniumTest@6276ae34]" name="ElementUI" duration-ms="0" started-at="2020-03-06T08:30:59Z" finished-at="2020-03-06T08:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementUI -->
+      </class> <!-- com.shashi1.SeleniumTest -->
+      <class name="com.shashi1.seleniumTests.TestClass">
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.shashi1.seleniumTests.TestClass@7946e1f4]" name="testMethod" duration-ms="15" started-at="2020-03-06T08:30:59Z" finished-at="2020-03-06T08:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- com.shashi1.seleniumTests.TestClass -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
